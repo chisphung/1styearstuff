@@ -1,0 +1,12 @@
+NguyenVanA
+110000
+TranThiB
+110000
+LeVanC
+63000
+NguyenVanD
+36000
+NguyenThiE
+600000
+Tong so tien cong ty thu duoc: 
+919000

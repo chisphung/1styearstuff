@@ -1,0 +1,24 @@
+2 2 1
+NguyenVanA
+10
+10000
+TranThiB
+5
+20000
+LeVanC
+7
+15000
+3
+NguyenVanD
+2
+30000
+5
+NguyenThiE
+10
+100000
+PhamVanF
+4
+25000
+VoThiG
+10
+100000
